@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamiljann. A network engineer from Iran.
 - 👀 I’m interested in python programming language.
-- 🌱 I’m currently learning Tkinter
+- 🌱 I’m currently learning Tkinter, Django and REST API
 - 💞️ I’m looking to collaborate on new projects of network system programming.
 - 📫 How to reach me . 
 
