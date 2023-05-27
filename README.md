@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamiljann. A network engineer from Iran.
+- 👋 Hi, I’m @jamiljann. A network engineer and Python softwear developer.
 - 👀 I’m interested in python programming language and Django.
 - 🌱 I’m currently learning Tkinter, Django and REST API
 - 💞️ I’m looking to collaborate on new projects of network system programming.
